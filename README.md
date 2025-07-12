@@ -2,10 +2,9 @@
 Pandit Deendayal Energy University|MERN Stack Developer | Exploring AI/ML 🤖 | Learning Advanced Java ☕ | Building real-world projects 🚀
 📫 How to reach me: manasjoshi.dev@gmail.com
 Connect With me :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-joshi-aa4697313)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-joshi-aa4697313) <br/>
+<hr/>
 Language and Tools :
-### Languages and Tools:
-
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
